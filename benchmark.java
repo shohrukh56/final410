@@ -105,7 +105,7 @@ class FileSystem {
                 System.out.printf("readFile duration: %d\n", readDuration);
                 printCPUUsage();
             }
-            System.out.println("----------------------------------");
+            System.out.println("-----------------");
         }
     }
 
